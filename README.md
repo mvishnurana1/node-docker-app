@@ -10,5 +10,4 @@ After compiling the Dockerfile, run the command
 
 The command will execute the Dockerfile and get the image ready. 
 
-Finally, run "docker run -p 3000:8080 mvishnurana1/tiny-docker-project" 
-This command is commonly used for port mapping. 
+Finally, run "docker run -p 3000:8080 mvishnurana1/tiny-docker-project" for port mapping. 
