@@ -1,7 +1,7 @@
 # node-docker-app
 simple node-express app leveraging docker's containerisation capability 
 On downloading the source code: 
-  - Open the terminal 
+  - Open the terminal navigate to the code's directory.
   - run command "docker build ." 
 Note: the "." in the command is referring to the current working directory. 
  
